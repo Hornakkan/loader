@@ -1,0 +1,11 @@
+{
+  "name": "creez_des_animations_css_modernes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/loader.scss:./css/loader.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
